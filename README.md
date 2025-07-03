@@ -1,4 +1,4 @@
-G.U.R.T. — Generalized Unified Reactive Technology
+G.U.R.T. — Guided Unified Reactive Technology
 
 Or, more descriptively:
 
